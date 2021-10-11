@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate Anderson</h1>
-<h3 align="center">An outgoing introvert Full-stack Developer in Baltimore MD</h3>
+<h3 align="center">An Outgoing Introvert Full-stack Developer in Baltimore MD</h3>
 
 - 🔭 I’m currently working on [Granny's Cluttered Cottage, a charity site](TBD)
 
