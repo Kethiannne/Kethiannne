@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nate Anderson</h1>
 <h3 align="center">An Outgoing Introvert Full-stack Developer in Baltimore MD</h3>
 
-- 🔭 I’m currently working on [Granny's Cluttered Cottage, a charity site](TBD)
+- 🔭 I’m currently working on Granny's Cluttered Cottage, a charity site
 
 - 🌱 I’m currently learning **Everything! My tutors at Yandex taught me to treat each day as though I'm a beginner. You never stop learning!**
 
 - 👯 I’m looking to collaborate on **React apps, anything fun or challenging**
 
-- 🤝 I’m looking for help with **RESTful APIs, personal projects, or anything you want help with!**
+- 🤝 I’m looking to help with **RESTful APIs, personal projects, or anything you want help with!**
 
 - 👨‍💻 My most recent projects are available here on github at:
   - https://github.com/Kethiannne/web_project_3 : A single page responsive web application focusing on Flex and Grid technologies
