@@ -9,7 +9,10 @@
 
 - 🤝 I’m looking for help with **RESTful APIs, personal projects, or anything you want help with!**
 
-- 👨‍💻 All of my projects are available at [(add github pages link later)]((add github pages link later))
+- 👨‍💻 My most recent projects are available here on github at:
+  - https://github.com/Kethiannne/web_project_3 : A single page responsive web application focusing on Flex and Grid technologies
+  - https://github.com/Kethiannne/react-around-auth && https://github.com/Kethiannne/react-around-api-full : A MERN stack web application for sharing photos between users using     reusable components and react hooks.
+  - https://github.com/Kethiannne/news-explorer-frontend && https://github.com/Kethiannne/news-explorer-api : A MERN stack web application integrated with a third party News         Search API that allows users to search for and save news articles to their account
 
 - 💬 Ask me about **React, Express, HTML/CSS, JavaScript... or my personal hobbies as well! I DM for a couple DnD groups and love group coordinated discussions and activities**
 
