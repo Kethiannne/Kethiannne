@@ -10,11 +10,14 @@
 - 🤝 I’m looking to help with **RESTful APIs, personal projects, or anything you want help with!**
 
 - 👨‍💻 My most recent projects are available here on github at:
-  - https://github.com/Kethiannne/web_project_3 : A single page responsive web application focusing on Flex and Grid technologies
+  - From Portland to Portland: A single page responsive web application focusing on Flex and Grid technologies: 
+    - https://github.com/Kethiannne/web_project_3 
     - Demo: https://www.loom.com/share/c396a9b855f44a62aa568f712f41b61c
-  - https://github.com/Kethiannne/react-around-auth && https://github.com/Kethiannne/react-around-api-full : A MERN stack web application for sharing photos between users using     reusable components and react hooks.
+  - Around the US: A MERN stack web application for sharing photos between users using reusable components and react hooks. 
+    - https://github.com/Kethiannne/react-around-auth && https://github.com/Kethiannne/react-around-api-full
     - Demo: https://www.loom.com/share/af4e133d89984640af518c99285aa4bd
-  - https://github.com/Kethiannne/news-explorer-frontend && https://github.com/Kethiannne/news-explorer-api : A MERN stack web application integrated with a third party News         Search API that allows users to search for and save news articles to their account
+  - KethNews Explorer: A MERN stack web application integrated with a third party News Search API that allows users to search for and save news articles to their account: 
+    - https://github.com/Kethiannne/news-explorer-frontend && https://github.com/Kethiannne/news-explorer-api
     - Demo: https://www.loom.com/share/94454444d06f4d76a47e63b74dd4df6a
  
 - 💬 Ask me about **React, Express, HTML/CSS, JavaScript... or my personal hobbies as well! I DM for a couple DnD groups and love group coordinated discussions and activities**
