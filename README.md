@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Express, HTML/CSS, JavaScript... or my personal hobbies as well! I DM for a couple DnD groups and love group coordinated discussions and activities**
 
-- 📫 How to reach me **NateDADC@gmail.com**
+- 📫 How to reach me **NateDADC@gmail.com** or **https://www.linkedin.com/in/nate-d-anderson/**
 
 - ⚡ Fun fact **I have a parrot named Emma**
 
