@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate Anderson</h1>
 <h3 align="center">An Outgoing Introvert Full-stack Developer in Baltimore MD</h3>
 
-- 🔭 I’m currently working on Granny's Cluttered Cottage, a charity site
+- 🔭 I’m currently working on a React.js powered responsive Pathfinder Character sheet manager app 
 
 - 🌱 I’m currently learning **Everything! My tutors at Yandex taught me to treat each day as though I'm a beginner. You never stop learning!**
 
