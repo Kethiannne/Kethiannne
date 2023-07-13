@@ -4,12 +4,13 @@
 - 🔭 I’m currently working on a React.js powered responsive Pathfinder Character sheet manager app 
 
 - 🌱 I’m currently learning **Everything! My tutors at Yandex taught me to treat each day as though I'm a beginner. You never stop learning!**
+    -  My work at neurogazer has helped me learn more about AWS cloud computing, 3D rendering with three.js, and much more!
 
 - 👯 I’m looking to collaborate on **React apps, anything fun or challenging**
 
 - 🤝 I’m looking to help with **RESTful APIs, personal projects, or anything you want help with!**
 
-- 👨‍💻 My most recent projects are available here on github at:
+- 👨‍💻 My most recent personal projects are available here on github at:
   - From Portland to Portland: A single page responsive web application focusing on Flex and Grid technologies: 
     - https://github.com/Kethiannne/web_project_3 
     - Demo: https://www.loom.com/share/c396a9b855f44a62aa568f712f41b61c
@@ -20,11 +21,13 @@
     - https://github.com/Kethiannne/news-explorer-frontend && https://github.com/Kethiannne/news-explorer-api
     - Demo: https://www.loom.com/share/94454444d06f4d76a47e63b74dd4df6a
  
-- 💬 Ask me about **React, Express, HTML/CSS, JavaScript... or my personal hobbies as well! I DM for a couple DnD groups and love group coordinated discussions and activities**
+- 💬 Ask me about **React, Express, HTML/CSS, JavaScript, AWS... or my personal hobbies as well! I DM for a DnD group and love group coordinated discussions and activities**
 
 - 📫 How to reach me **NateDADC@gmail.com** or **https://www.linkedin.com/in/nate-d-anderson/**
 
-- ⚡ Fun fact **I have a parrot named Emma**
+- ⚡ Fun facts
+    - **I have a parrot named Emma**
+    - **I am a beekeeper, and have custom made a 3 tiered observation hive for my apt!**
 
 - Read more about me in my current resume: https://docs.google.com/document/d/1luX5icFA356Eo6F_W4XpUtxgLa1i3hHFlVcHrpuUAbg/edit?usp=sharing
 
